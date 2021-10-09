@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Opixelum
+- 👋 Hi, I’m @Opixelum, a first-year student.
 - 👀 I’m interested in programming, system and IT in general.
 - 🌱 I’m currently learning C programming at ESGI, Paris 12.
 - 💞️ I’m looking to collaborate on several simple project in C.
