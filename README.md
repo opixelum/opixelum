@@ -1,4 +1,4 @@
-# Welcome to my GitHub profile
+# Welcome to my GitHub profile !
 
 - 👋 Hi, I’m @Opixelum, a first-year computer science student at the ESGI Paris.
 - 👀 I’m passionate about IT in general, but I have a particular interest in blockchain.
