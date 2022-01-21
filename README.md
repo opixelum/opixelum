@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Opixelum, a first-year student.
-- 👀 I’m interested in programming, system and IT in general.
-- 🌱 I’m currently learning C programming at ESGI, Paris 12.
-- 💞️ I’m looking to collaborate on several simple project in C.
+- 👋 Hi, I’m @Opixelum, a first-year computer science student at the ESGI Paris.
+- 👀 I’m passionate about IT in general, but I have a particular interest in blockchain.
+- 🌱 I’m keen on programming, either web(3), software, blockchain or even mobile.
+- 💞️ I’m actively looking for projects that need help. I'm open to work !
 - 📫 You can reach me on discord: Opixelum#3219
-
-<!---
-Opixelum/Opixelum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
