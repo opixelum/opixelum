@@ -29,6 +29,7 @@ As you can guess, I love coding ^^
 ![Python](https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python)
 ![Solidity](https://img.shields.io/badge/Code-Solidity-363636?style=for-the-badge&logo=solidity)
 ![Git](https://img.shields.io/badge/Versioning-Git-F05032?style=for-the-badge&logo=git)
+![Bash](https://img.shields.io/badge/Terminal-GNU_Bash-4EAA25?style=for-the-badge&logo=GNUbash)
 
 <br>
 
